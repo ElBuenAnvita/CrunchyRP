@@ -1,0 +1,39 @@
+{
+  "name": "Crunchyroll",
+  "version": "1.0.0",
+  "description": "Una aplicación no oficial de Crunchyroll con Discord RP",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "build",
+    "postinstall": "npmpd --no-save"
+  },
+  "keywords": [
+    "discord",
+    "rich",
+    "presence",
+    "crunchyroll"
+  ],
+  "author": "ElBuenAnvita",
+  "license": "ISC",
+  "build": {
+    "appId": "com.crunchyroll.anvita",
+    "win": {
+      "target": "nsis",
+      "icon": "./icon.ico"
+    }
+  },
+  "homepage": "https://github.com/ElBuenAnvita/Crunchyroll-Rich-Presence#readme",
+  "dependencies": {
+    "discord-rpc": "^3.0.1",
+    "discord-rich-presence": "^0.0.7",
+    "electron-widevinecdm": "^5.0.2",
+    "jssoup": "^0.0.10",
+    "moment": "^2.22.1",
+    "npm-platform-dependencies": "^0.1.0"
+  },
+  "devDependencies": {
+    "electron": "^1.8.2-beta.5",
+    "electron-builder": "^19.55.3"
+  }
+}
