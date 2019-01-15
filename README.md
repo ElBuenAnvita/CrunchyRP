@@ -38,8 +38,8 @@ Por el momento la aplicación sólo cuenta con su característica de mostrar "En
 # Colaboradores
 <!-- ALL-CONTRIBUTORS-LIST:START - No cambies esto, carbón. -->
 <!-- prettier-ignore -->
-| [<img src="https://cdn.discordapp.com/avatars/331641970910953473/8997fa2877eda75adf1a64b6fbfefb46.png" width="100px;"/><br /><sub><b>ElBuenAnvita</b></sub>](http://anvi.cf/developers/anvita "ElBuenAnvita#7699")<br />[💻](https://github.com/ElBuenAnvita/discord-netflix/commits?author=ElBuenAnvita "Código") [🎨](#diseño-ElBuenAnvita "Diseño") | [<img src="https://cdn.discordapp.com/avatars/226997678117093376/833355baf529fff2ce99889f497c5549.png" width="100px;"/><br /><sub><b>Ruy</b></sub>](#no-enlace "Privado#0000")<br />[💻](#codigo-Ruy "Código") |
-| :---: | :---: | :---: | :---: | :---: | :---: |
+| [<img src="https://cdn.discordapp.com/avatars/331641970910953473/8997fa2877eda75adf1a64b6fbfefb46.png" width="100px;"/><br /><sub><b>ElBuenAnvita</b></sub>](https://github.com/ElBuenAnvita "ElBuenAnvita#7699")<br />[💻](https://github.com/ElBuenAnvita/discord-netflix/commits?author=ElBuenAnvita "Código") [🎨](#diseño-ElBuenAnvita "Diseño") | [<img src="https://cdn.discordapp.com/avatars/226997678117093376/833355baf529fff2ce99889f497c5549.png" width="100px;"/><br /><sub><b>Ruy</b></sub>](https://github.com/OcZi "Privado#0000")<br />[💻](#codigo-Ruy "Código") |
+| :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 # Contribución / Ayuda
