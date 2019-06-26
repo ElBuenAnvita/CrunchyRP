@@ -1,6 +1,6 @@
 {
   "name": "Crunchyroll",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Una aplicación no oficial de Crunchyroll con Discord RP",
   "main": "main.js",
   "scripts": {
@@ -29,8 +29,9 @@
     "discord-rich-presence": "^0.0.7",
     "electron-widevinecdm": "^5.0.2",
     "jssoup": "^0.0.10",
-    "moment": "^2.22.1",
-    "npm-platform-dependencies": "^0.1.0"
+    "moment": "^2.3.0",
+    "npm-platform-dependencies": "^0.1.0",
+    "moment-duration-format": "^2.2.2"
   },
   "devDependencies": {
     "electron": "^1.8.2-beta.5",
