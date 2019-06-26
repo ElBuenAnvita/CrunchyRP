@@ -48,22 +48,29 @@ Por el momento la aplicación sólo cuenta con su característica de mostrar "En
 
 # Así se verá
 **Versión 1.0**
+
 ![Watching](http://anvi.cf/editores/anvita/crunchyroll-rp/Crunchyroll-RP_1.png)
+
 ↑ Versión pequeña
 
 ![Watching](http://anvi.cf/editores/anvita/crunchyroll-rp/Crunchyroll-RP_2.png)
+
 ↑ Cuando estás viendo un capítulo de una serie, aparecerá esto.
 
 ~
 
 **Versión 1.3**
+
 ![Browsing](http://anvi.cf/editores/anvita/crunchyroll-rp/Crunchyroll-RP-beta_Browsing_EN.png)
+
 ↑ Cuando estás en los catálogos, aparecerá esto.
 
 ![Watching](http://anvi.cf/editores/anvita/crunchyroll-rp/Crunchyroll-RP-beta_Watching_ES.png)
+
 ↑ Cuando estés viendo un video, y este esté pausado, aparecerá esto.
 
 ![Watching](http://anvi.cf/editores/anvita/crunchyroll-rp/Crunchyroll-RP-beta_Watching2_ES.png)
+
 ↑ Cuando estés viendo un video, y este esté rodando, aparecerá con el Timestamp.
 
 # Colaboradores
