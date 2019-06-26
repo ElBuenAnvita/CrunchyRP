@@ -1,0 +1,31 @@
+{
+   "author": "Jeppe Rune Mortensen \u003Cjepperm@gmail.com>",
+   "background": {
+      "scripts": [ "vendor/browser-polyfill.min.js", "background.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "vendor/browser-polyfill.min.js", "patch.js", "content-script.js" ],
+      "matches": [ "*://www.crunchyroll.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "vendor/browser-polyfill.min.js", "patch.js", "content-script.js" ],
+      "matches": [ "*://www.crunchyroll.com/affiliate_iframeplayer*" ]
+   } ],
+   "description": "A fully fledged HTML5 player for Crunchyroll.",
+   "icons": {
+      "128": "assets/icon128.png",
+      "16": "assets/icon16.png",
+      "32": "assets/icon32.png",
+      "48": "assets/icon48.png",
+      "64": "assets/icon64.png",
+      "96": "assets/icon96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk3+NKjgoRZCkfv3GDqIAmfc37TaTpDqzMguIevTvW6DoQSmbqEnfyjlm4y2O+VrpoyJQbbaacacwuCoMYFf1+qNG77d/TfLRjB+8OPN6o4GSf1bHYrZ+JJ8yDO2fr7VPIOfr2LOEzxV0+EKy5fylUAqMV2MZIrIP9tOJ7zdKBCjd1lagMe5k9m8XhRmlTV8XSVB9eCVj2BrNHpxQglZFlUiN0puVWMrNeVhEl6WNNyUtfbel8adUpKXJ6+/bsegxrhT0UZWH7jpc/fwuRS0J+6u/HmXYvbeNoVRFFRq3Wb5reN3TXKAUwWg8KTJs44b7gG1rFbrRPof/SoEG7chvXQIDAQAB",
+   "manifest_version": 2,
+   "name": "Crunchyroll HTML5",
+   "permissions": [ "storage", "*://www.crunchyroll.com/*", "*://*.vrv.co/*", "*://*.dlvr1.net/*", "*://*.akamaized.net/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.14.3",
+   "web_accessible_resources": [ "vendor/JavascriptSubtitlesOctopus/*", "fonts/*" ]
+}
