@@ -42,22 +42,29 @@ Any ideas? Please tell us!
 
 # Working
 **Versión 1.0**
+
 ![Watching](http://anvi.cf/editores/anvita/crunchyroll-rp/Crunchyroll-RP_1.png)
+
 ↑ Small
 
 ![Watching](http://anvi.cf/editores/anvita/crunchyroll-rp/Crunchyroll-RP_2.png)
+
 ↑ When you're watching something
 
 ~
 
 **Version 1.3**
+
 ![Browsing](http://anvi.cf/editores/anvita/crunchyroll-rp/Crunchyroll-RP-beta_Browsing_EN.png)
+
 ↑ When you're browsing on index or in catalogs.
 
 ![Watching](http://anvi.cf/editores/anvita/crunchyroll-rp/Crunchyroll-RP-beta_Watching_EN.png)
+
 ↑ When you're watching something and it's paused.
 
 ![Watching](http://anvi.cf/editores/anvita/crunchyroll-rp/Crunchyroll-RP-beta_Watching2_EN.png)
+
 ↑ When you're watching something and it's playing (with timestamp).
 
 # Colaboradores
