@@ -1,9 +1,12 @@
 [Leer en español](https://github.com/ElBuenAnvita/Crunchyroll-Rich-Presence/blob/master/README_ES.md)
 
+## Advise!!!!
+A dependence is not working anymore and this app isn't suitable due that RP won't work because of the missing dependence, when I have time i'll fix that, thank u :kissu:
+
 # Crunchyroll-Rich-Presence 
 An Crunchyroll app wrapper with Rich Presence Discord.
 
-# I dooooon't wannaaaaaa reeeeeaaaaad everythiiiiiiingggggggg! 
+## I just want to use the app, now! 
 You can download a prebuilt installer from [releases](https://github.com/ElBuenAnvita/Crunchyroll-Rich-Presence/releases) if you want.
 We don't have a official licence for our product (This app is totally $0!)
 
@@ -41,7 +44,7 @@ This app only show on Discord Rich Presence "In Catalogs" and mangas o shows you
 Any ideas? Please tell us!
 
 # Working
-**Versión 1.0**
+**Version 1.0**
 
 ![Watching](http://anvi.cf/editores/anvita/crunchyroll-rp/Crunchyroll-RP_1.png)
 
@@ -67,7 +70,7 @@ Any ideas? Please tell us!
 
 ↑ When you're watching something and it's playing (with timestamp).
 
-# Colaboradores
+# Team/Contributors
 <!-- ALL-CONTRIBUTORS-LIST:START - No cambies esto, carbón. -->
 <!-- prettier-ignore -->
 | [<img src="https://cdn.discordapp.com/avatars/331641970910953473/8997fa2877eda75adf1a64b6fbfefb46.png" width="100px;"/><br /><sub><b>ElBuenAnvita</b></sub>](http://anvi.cf/developers/anvita "ElBuenAnvita#7699")<br />[💻](https://github.com/ElBuenAnvita/Crunchyroll-Rich-Presence/commits?author=ElBuenAnvita "Código") [🎨](#diseño-ElBuenAnvita "Design") | [<img src="https://cdn.discordapp.com/avatars/226997678117093376/833355baf529fff2ce99889f497c5549.png" width="100px;"/><br /><sub><b>_OcZi</b></sub>](https://github.com/_OcZi "Private#0000")<br />[💻](https://github.com/ElBuenAnvita/Crunchyroll-Rich-Presence/commits?author=_OcZi "Código") |
