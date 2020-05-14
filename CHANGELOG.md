@@ -1,5 +1,11 @@
 # Registro de cambios en esta versión (CHANGELOG)
 
+## 1.4
+Se añadió en la versión `1.4.0` las siguientes características:
+- Corregido el error de la extensión deprecada por el mismo autor del mismo. Ahora usamos el reproductor nativo de Crunchyroll de HTML5
+- Se vuelven a mostrar correctamente los timestamp
+- Se precisó la manera de obtener la información de los vídeos
+
 ## 1.3
 Se añadió en la versión `1.3.0` las siguientes características:
 - **Corrección**: En la versión 1.2, era obligatorio usar la página en Inglés para que el Rich Presence funcionase. Ahora no, se creó un fix temporal.

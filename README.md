@@ -1,81 +1,46 @@
-[Leer en español](https://github.com/ElBuenAnvita/Crunchyroll-Rich-Presence/blob/master/README_ES.md)
+# CrunchyRP
 
-## Advise!!!!
-A dependence is not working anymore and this app isn't suitable due that RP won't work because of the missing dependence, when I have time i'll fix that, thank u :kissu:
+CrunchyRP is an Crunchyroll electron wrapper that uses Discord-Rich-Presence, showing on your status what you're watching. 
 
-# Crunchyroll-Rich-Presence 
-An Crunchyroll app wrapper with Rich Presence Discord.
+### Features
+  - Show whenever you're on catalogs or watching an episode
+  - Shows the serie's name and episode number & title
+  - If it's possible, it shows Timestamp of the remaining time to finish the video
 
-## I just want to use the app, now! 
-You can download a prebuilt installer from [releases](https://github.com/ElBuenAnvita/Crunchyroll-Rich-Presence/releases) if you want.
-We don't have a official licence for our product (This app is totally $0!)
+### Planned
+  - Special Small Image for Premium and Premium+ users.
+  - User-translated "Browsing" and "In the Catalogs" depending on the language selected on the app.
+  - Support for special videos (such as Movies). 
 
-# Building yourself (This is a copypaste!)
+## Relases
+You can download a prebuilt [relases](https://github.com/ElBuenAnvita/CrunchyRP/releases) NSIS installer for this app.
+> The app could be shown as a virus because a lack of an certificate (We don't have money!) 
 
-## Prepairing the environment
-You will need [Node.js](http://nodejs.org/en/download) installed and added to the PATH, so just download the installer and make sure to select the box to add to PATH. Version must be 7.0.0 >
+## Building yourself
+So you have chosen... __death__!
 
-## Running
-You have to install the dependencies. So, just run `npm install` in the repo's folder.
-Once it's done, run `npm start` to start the application.
+You will need
+* [Latest active versions of NodeJS](https://nodejs.org/es/about/releases/)
+* [Git](https://git-scm.com/downloads)
 
-## Building
-The app also have a build method, used for distribution. It will generate a NSIS installer for the app, and a packaged version of it.
-To build the app for distribution, run `npm run dist`.
+### Running!
+Run `npm install` inside of the repository folder to install the necessary dependencies.
+Once it's done, use `npm start` to run the app.
+### Building
+App also has built method for distribution (NSIS installer). Use `npm run dist` for it
 
-# Info
-Based on [discord-netflix](https://github.com/nirewen/discord-netflix) for this code. (Thank youuu nirewen~!)
+## Bugs & Contribuiting
+You can fork this repo and make changes for fixing, enhancement, and open a pull request.
 
-# Heads up!
-If Discord is not opened, or, for some reason, the RPC Client couldn't connect to it, Rich Presence won't work.
-Even if Discord is not opened, you can still use the app as a normal Crunchyroll wrapper.
+## Contribuitors
+| <img src="https://cdn.discordapp.com/avatars/331641970910953473/ab6342cb2ac00635094d6818d4ebe3b5.png?size=1024" width="150px;"/> | <img src="https://media.discordapp.net/attachments/517788082783911946/705833222600130670/rotate.png?width=475&height=475" width="150px"/> |
+| ------ | ------ |
+| ElBuenAnvita#7699<br> | Cuarentena#8250<br> |
 
-The timestamp and RP won't work if you're watching a video longer than 1 hour (1:00:00).
+## Preview
+<img src="https://cdn.discordapp.com/attachments/409599882559619082/705834006369009684/unknown.png">
 
-# Features
-This app only show on Discord Rich Presence "In Catalogs" and mangas o shows you're watching (and the timestamp if is available).<br>
+<img src="https://media.discordapp.net/attachments/409599882559619082/705792153753747496/unknown.png">
 
-## Planned
-- Show episode name (Actually only shows series, episode number, episode name and timestamp)
-- Translated Rich Presence.<br>
-- An smallkey for Premium and Premium+ users.<br>
-- FlashPlayer include for read manga.<br>
-
-Any ideas? Please tell us!
-
-# Working
-**Version 1.0**
-
-![Watching](http://anvi.cf/editores/anvita/crunchyroll-rp/Crunchyroll-RP_1.png)
-
-↑ Small
-
-![Watching](http://anvi.cf/editores/anvita/crunchyroll-rp/Crunchyroll-RP_2.png)
-
-↑ When you're watching something
-
-~
-
-**Version 1.3**
-
-![Browsing](http://anvi.cf/editores/anvita/crunchyroll-rp/Crunchyroll-RP-beta_Browsing_EN.png)
-
-↑ When you're browsing on index or in catalogs.
-
-![Watching](http://anvi.cf/editores/anvita/crunchyroll-rp/Crunchyroll-RP-beta_Watching_EN.png)
-
-↑ When you're watching something and it's paused.
-
-![Watching](http://anvi.cf/editores/anvita/crunchyroll-rp/Crunchyroll-RP-beta_Watching2_EN.png)
-
-↑ When you're watching something and it's playing (with timestamp).
-
-# Team/Contributors
-<!-- ALL-CONTRIBUTORS-LIST:START - No cambies esto, carbón. -->
-<!-- prettier-ignore -->
-| [<img src="https://cdn.discordapp.com/avatars/331641970910953473/8997fa2877eda75adf1a64b6fbfefb46.png" width="100px;"/><br /><sub><b>ElBuenAnvita</b></sub>](http://anvi.cf/developers/anvita "ElBuenAnvita#7699")<br />[💻](https://github.com/ElBuenAnvita/Crunchyroll-Rich-Presence/commits?author=ElBuenAnvita "Código") [🎨](#diseño-ElBuenAnvita "Design") | [<img src="https://cdn.discordapp.com/avatars/226997678117093376/833355baf529fff2ce99889f497c5549.png" width="100px;"/><br /><sub><b>_OcZi</b></sub>](https://github.com/_OcZi "Private#0000")<br />[💻](https://github.com/ElBuenAnvita/Crunchyroll-Rich-Presence/commits?author=_OcZi "Código") |
-| :---: | :---: |
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-# Help
-You can suggest any feature or report bugs btw.
+## Info
+This app/software/code isn't official nor linked with Crunchyroll, ELLIATION, AT&T or OTTER MEDIA.
