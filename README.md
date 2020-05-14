@@ -37,6 +37,8 @@ You can fork this repo and make changes for fixing, enhancement, and open a pull
 | ------ | ------ |
 | ElBuenAnvita#7699<br> | Cuarentena#8250<br> |
 
+Thanks to (nirewen)[https://github.com/nirewen/discord-netflix]! This app was made based on his code!
+
 ## Preview
 <img src="https://cdn.discordapp.com/attachments/409599882559619082/705834006369009684/unknown.png">
 
