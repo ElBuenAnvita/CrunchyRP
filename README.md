@@ -12,7 +12,7 @@ CrunchyRP is an Crunchyroll electron wrapper that uses Discord-Rich-Presence, sh
   - User-translated "Browsing" and "In the Catalogs" depending on the language selected on the app.
   - Support for special videos (such as Movies). 
 
-## Relases
+## Releases
 You can download a prebuilt [releases](https://github.com/ElBuenAnvita/CrunchyRP/releases) NSIS installer for this app.
 > The app could be shown as a virus because a lack of an certificate (We don't have money!) 
 
