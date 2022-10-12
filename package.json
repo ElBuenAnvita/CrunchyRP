@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "electron": "^8.5.2",
-    "electron-builder": "^19.55.3",
+    "electron-builder": "^23.6.0",
     "npm-platform-dependencies": "^0.1.0"
   }
 }
