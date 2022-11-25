@@ -1,3 +1,6 @@
+# 🚧 NO LONGER IN DEVELOPMENT
+You can now achiveve these results using the [Native Crunchyroll and Discord Connection](https://support.discord.com/hc/en-us/articles/9929188048023-Discord-and-Crunchyroll-Connection-FAQ) offered inside Discord app.
+
 # CrunchyRP
 
 CrunchyRP is an Crunchyroll electron wrapper that uses Discord-Rich-Presence, showing on your status what you're watching. 
@@ -14,7 +17,7 @@ CrunchyRP is an Crunchyroll electron wrapper that uses Discord-Rich-Presence, sh
 
 ## Releases
 You can download a prebuilt [releases](https://github.com/ElBuenAnvita/CrunchyRP/releases) NSIS installer for this app.
-> The app could be shown as a virus because a lack of an certificate (We don't have money!) 
+> The app may be shown as a virus because a lack of an certificate (We don't have money!) 
 
 ## Building yourself
 So you have chosen... __death__!
@@ -37,7 +40,7 @@ You can fork this repo and make changes for fixing, enhancement, and open a pull
 | ------ | ------ |
 | ElBuenAnvita#7699<br> | Cuarentena#8250<br> |
 
-Thanks to (nirewen)[https://github.com/nirewen/discord-netflix]! This app was made based on his code!
+Thanks to [nirewen](https://github.com/nirewen/discord-netflix)! This app was made based on his code!
 
 ## Preview
 <img src="https://cdn.discordapp.com/attachments/409599882559619082/705834006369009684/unknown.png">
