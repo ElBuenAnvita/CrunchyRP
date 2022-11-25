@@ -36,7 +36,7 @@ App also has built method for distribution (NSIS installer). Use `npm run dist` 
 You can fork this repo and make changes for fixing, enhancement, and open a pull request.
 
 ## Contribuitors
-| <img src="https://cdn.discordapp.com/avatars/331641970910953473/ab6342cb2ac00635094d6818d4ebe3b5.png?size=1024" width="150px;"/> | <img src="https://media.discordapp.net/attachments/517788082783911946/705833222600130670/rotate.png?width=475&height=475" width="150px"/> |
+| <img src="https://avatars.githubusercontent.com/u/37051987?s=1024&v=4" width="150px;"/> | <img src="https://media.discordapp.net/attachments/517788082783911946/705833222600130670/rotate.png?width=475&height=475" width="150px"/> |
 | ------ | ------ |
 | ElBuenAnvita#7699<br> | Cuarentena#8250<br> |
 
